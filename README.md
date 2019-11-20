@@ -2,6 +2,7 @@
 
 After using JavaScript in a lot of projects I want to recall my beginner level experiences here & then go through advanced topics to become a master in JavaScript. 
 
+## Will be Using Chrome Developers tools & Node.js in most cases  
 
 # Checklist
 
