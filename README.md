@@ -8,8 +8,19 @@ After using JavaScript in a lot of projects I want to recall my beginner level e
 
 ## JavaScript Fundamentals
 
-:black_square_button:  The modern mode, "use strict"
- 
+:white_check_mark:  The modern mode, "use strict"
+
+:black_square_button:Types & Scopes
+
+- let & const proper usage
+- Scope
+  * Block Scope
+  * Global Scope
+  * Lexical Scope   
+- DataTypes
+  * Primitives/Value Types
+  * Reference Types
+
 :black_square_button:Type Conversions & Comparisons
 
 :black_square_button: Loop
